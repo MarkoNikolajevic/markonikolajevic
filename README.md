@@ -29,7 +29,7 @@
 
 ---
 
-[![Marko's github stats](https://github-readme-stats.vercel.app/api?username=MarkoNikolajevic&hide=contribs&show_icons=true&theme=dracula)](https://github.com/MarkoNikolajevic/github-readme-stats)
+<img align="left" alt="Marko's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MarkoNikolajevic&hide=contribs&show_icons=true&theme=dracula" />
 
 [website]: https://www.markonikolajevic.com
 [twitter]: https://twitter.com/markez1317
