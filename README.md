@@ -2,7 +2,6 @@
 
 ## I'm a Front Developer and React lover!
 
-- 🔭 I’m currently working on a [VS Code Course][website]!
 - 🥅 2020 Goals: Learn more about Back End development
 
 ### Connect with me:
