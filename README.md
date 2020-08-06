@@ -29,7 +29,7 @@
 
 ---
 
-<img align="left" alt="Marko Nikolajevic's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MarkoNikolajevic_icons=true&hide_border=true" />
+[![Marko's github stats](https://github-readme-stats.vercel.app/api?username=MarkoNikolajevic)](https://github.com/MarkoNikolajevic/github-readme-stats)
 
 [website]: https://www.markonikolajevic.com
 [twitter]: https://twitter.com/markez1317
