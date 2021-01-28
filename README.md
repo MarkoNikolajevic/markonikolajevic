@@ -2,11 +2,11 @@
 
 ## I'm a Front Developer and React lover!
 
-- 🥅 2020 Goals: Learn more about Back End development
+- 🥅 2021 Goals: Learn more about Back End development (node, Go)
 
 ### Connect with me
 
-[<img align="left" alt="www.markonikolajevic.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="www.markonikolajevic.dev" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="MarkoNikolajevic | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="MarkoNikolajevic | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
@@ -31,6 +31,6 @@
 
 <img align="left" alt="Marko's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MarkoNikolajevic&hide=contribs&show_icons=true&theme=dracula" />
 
-[website]: https://www.markonikolajevic.com
+[website]: https://www.markonikolajevic.dev
 [twitter]: https://twitter.com/markez1317
 [linkedin]: https://linkedin.com/in/markonikolajevic
