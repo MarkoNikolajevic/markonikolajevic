@@ -1,35 +1,36 @@
-### Hi, I'm Marko 👋
+## Hi, I'm Marko 👋
 
-## I'm a Front Developer and React lover!
+# I'm a Front Developer and React lover!
+Check my [portfolio][website] to see some of my projects.
+🥅 2021 Goals: Learn more about Back End development (node, Go)
 
-- 🥅 2021 Goals: Learn more about Back End development (node, Go)
-
+---
 ### Connect with me
 
-[<img align="left" alt="www.markonikolajevic.dev" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="MarkoNikolajevic | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="MarkoNikolajevic | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="Marko Nikolajevic | Twitter" width="40" height="40" height="40" />][twitter]
+[<img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon.svg" alt="Marko Nikolajevic | LinkedIn" width="40" height="40" height="40" />][linkedin]
 
-<br />
+---
+### Codebox
 
-### Languages and Tools:
-
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/gulp/gulp.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-
-<br />
+<img src="https://cdn.worldvectorlogo.com/logos/html5.svg" alt="html logo" width="40" height="40" />
+<img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt="css logo" width="40" height="40"/>
+<img src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" alt="sass logo" width="40" height="40"/>
+<img src="https://cdn.worldvectorlogo.com/logos/javascript.svg" alt="javascript logo" width="40" height="40"/>
+<img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="react logo" width="40" height="40"/>
+<img src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="nextjs logo" width="40" height="40"/>
+<img src="https://cdn.worldvectorlogo.com/logos/gulp.svg" alt="gulp logo" width="40" height="40"/>
+<img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="git logo" width="40" height="40"/>
+<img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" alt="git logo" width="40" height="40"/>
 <br />
 
 ---
+### My GitHub stats
+<br />
 
-<img align="left" alt="Marko's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MarkoNikolajevic&hide=contribs&show_icons=true&theme=dracula" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarkoNikolajevic&hide=java,html,css&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Marko's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarkoNikolajevic&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 [website]: https://www.markonikolajevic.dev
 [twitter]: https://twitter.com/markez1317
