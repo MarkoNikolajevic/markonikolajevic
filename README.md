@@ -13,15 +13,7 @@ Check my [portfolio][website] to see some of my projects.
 ---
 ### Codebox
 
-<img src="https://cdn.worldvectorlogo.com/logos/html5.svg" alt="html logo" width="40" height="40" />
-<img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt="css logo" width="40" height="40"/>
-<img src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" alt="sass logo" width="40" height="40"/>
-<img src="https://cdn.worldvectorlogo.com/logos/javascript.svg" alt="javascript logo" width="40" height="40"/>
-<img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="react logo" width="40" height="40"/>
-<img src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="nextjs logo" width="40" height="40"/>
-<img src="https://cdn.worldvectorlogo.com/logos/gulp.svg" alt="gulp logo" width="40" height="40"/>
-<img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="git logo" width="40" height="40"/>
-<img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" alt="git logo" width="40" height="40"/>
+<img src="https://cdn.worldvectorlogo.com/logos/html5.svg" alt="html logo" width="40" height="40" /> <img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt="css logo" width="40" height="40"/> <img src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" alt="sass logo" width="40" height="40"/> <img src="https://cdn.worldvectorlogo.com/logos/javascript.svg" alt="javascript logo" width="40" height="40"/> <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="react logo" width="40" height="40"/> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="nextjs logo" width="40" height="40"/> <img src="https://cdn.worldvectorlogo.com/logos/gulp.svg" alt="gulp logo" width="40" height="40"/> <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="git logo" width="40" height="40"/> <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" alt="git logo" width="40" height="40"/>
 <br />
 
 ---
