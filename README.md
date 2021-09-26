@@ -1,8 +1,8 @@
 ## Hi, I'm Marko 👋
 
-# I'm a Front Developer and React lover!
+# I'm a Front End and a Software Developer!
 Check my [portfolio][website] to see some of my projects.
-🥅 2021 Goals: Learn more about Back End development (node, Go)
+<!-- 🥅 2021 Goals: Learn more about Back End development (node, Go) -->
 
 ---
 ### Connect with me
@@ -13,7 +13,8 @@ Check my [portfolio][website] to see some of my projects.
 ---
 ### Codebox
 
-<img src="https://cdn.worldvectorlogo.com/logos/html5.svg" alt="html logo" width="40" height="40" /> <img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt="css logo" width="40" height="40"/> <img src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" alt="sass logo" width="40" height="40"/> <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="javascript logo" width="40" height="40"/> <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="react logo" width="40" height="40"/> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="nextjs logo" width="40" height="40"/> <img src="https://cdn.worldvectorlogo.com/logos/gulp.svg" alt="gulp logo" width="40" height="40"/> <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="git logo" width="40" height="40"/> <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" alt="git logo" width="40" height="40"/>
+<img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="javascript logo" width="40" height="40"/> <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="typescript logo" width="40" height="40"/> <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="react logo" width="40" height="40"/> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs logo" width="40" height="40"/> 
+<img src="https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg" alt="angular logo" width="40" height="40"/> <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="html logo" width="40" height="40" /> <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="css logo" width="40" height="40"/> <img src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" alt="sass logo" width="40" height="40"/> <img src="https://cdn.worldvectorlogo.com/logos/gulp.svg" alt="gulp logo" width="40" height="40"/> <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="git logo" width="40" height="40"/> <img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" alt="tailwindcss logo" width="40" height="40"/> <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" alt="bootstrap logo" width="40" height="40"/>
 <br />
 
 ---
